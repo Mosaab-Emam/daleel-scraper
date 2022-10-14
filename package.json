@@ -1,0 +1,17 @@
+{
+  "name": "daleel-scraper",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Mosaab-Emam/daleel-scraper.git",
+  "author": "Mosaab Emam <mosaab.emam123@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^1.1.2",
+    "cheerio": "^1.0.0-rc.12",
+    "html-pdf": "^3.0.1",
+    "node-fetch": "^3.2.10"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
